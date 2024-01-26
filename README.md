@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQHVUuzfiQ7thQ/profile-displaybackgroundimage-shrink_200_800/0/1658568340474?e=2147483647&v=beta&t=zR66CLZYaM6h7O4Rou1S0kaUrQ1iIUwj67Imy9riKaw))](https://eran-adithya.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4D16AQHVUuzfiQ7thQ/profile-displaybackgroundimage-shrink_200_800/0/1658568340474?e=2147483647&v=beta&t=zR66CLZYaM6h7O4Rou1S0kaUrQ1iIUwj67Imy9riKaw)](https://eran-adithya.io)
 <h1 align="center">Hi 👋, I'm Eran Adithya</h1>
 <h3 align="center">A passionate Android Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
