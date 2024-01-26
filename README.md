@@ -1,4 +1,4 @@
-[![MasterHead](https://img.lovepik.com/background/20211021/large/lovepik-science-and-technology-background-banner-image_500541381.jpg)](https://eran-adithya.io)
+[![MasterHead]([https://img.lovepik.com/background/20211021/large/lovepik-science-and-technology-background-banner-image_500541381.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png))](https://eran-adithya.io)
 <h1 align="center">Hi 👋, I'm Eran Adithya</h1>
 <h3 align="center">A passionate Android Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
