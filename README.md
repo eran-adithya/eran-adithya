@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **eran.adithya07@gmail.com**
 
-- ⚡ Fun fact **I am a foodie guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
