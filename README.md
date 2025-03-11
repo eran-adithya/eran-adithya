@@ -1,17 +1,17 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D16AQHVUuzfiQ7thQ/profile-displaybackgroundimage-shrink_200_800/0/1658568340474?e=2147483647&v=beta&t=zR66CLZYaM6h7O4Rou1S0kaUrQ1iIUwj67Imy9riKaw)](https://eran-adithya.io)
 <h1 align="center">Hi 👋, I'm Eran Adithya</h1>
-<h3 align="center">A passionate Android Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Frontend Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eran-adithya&label=Profile%20views&color=0e75b6&style=flat" alt="eran-adithya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eran adithya" target="blank"><img src="https://img.shields.io/twitter/follow/eran adithya?logo=twitter&style=for-the-badge" alt="eran adithya" /></a> </p>
 
-- 🔭 I’m currently working on **Sri Lanka Telecom as a Intern**
+- 🔭 I’m currently working on **CEEE Technologies as a Intern**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **WordPress**
 
 - 📫 How to reach me **eran.adithya07@gmail.com**
 
